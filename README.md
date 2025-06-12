@@ -12,6 +12,7 @@ I am passionate about solving complex problems and continuously learning new tec
 
 ### Technologies I currently work with
 - **Languages**: Go, Python
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uetsymphonique&show_icons=true&locale=en&layout=compact" alt="uetsymphonique" /></p>
 - **Tools & Technologies**: Cloud Services (AWS, GCP), Cybersecurity Frameworks, Machine Learning Algorithms
 
 ### My Projects
