@@ -53,7 +53,8 @@ Some of the main project directions I am working on include:
   - LLM-based extraction of behaviors and TTPs from CTI / IR reports  
   - Mapping adversary behaviors to the MITRE ATT&CK framework  
   - Automatic generation of procedures and rapid evaluation of expected detection coverage based on detection rule logic  
-  - Identifying weaknesses and potential bypass paths in existing detection rules  
+  - Identifying weaknesses and potential bypass paths in existing detection rules
+  - Development of automated tooling to execute adversary emulation scenarios and test cases
 
 #### Academic & Research-Oriented Work
 - Research on applying **AI / ML to Intrusion Detection Systems (IDS)**  
