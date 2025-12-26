@@ -18,7 +18,7 @@ I am passionate about solving complex problems and continuously learning new tec
 
 ### My Projects
 Here are some of the key areas I work on:
-- **Cyber Security**: Research and development in Automate Adversary Emulation.
+- **Cyber Security**: Research and development in Automated Adversary Emulation.
 - **Cloud Infrastructure**: Working with cloud platforms like AWS, GCP, and Kubernetes.
 - **Machine Learning**: Building models for intrusion detection, network security and adversarial robust training
 
